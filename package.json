@@ -1,0 +1,24 @@
+{
+  "name": "which-keys",
+  "version": "0.1.0",
+  "description": "Give information about which key(s) are pressed by the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karaggeorge/which-keys.git"
+  },
+  "keywords": [
+    "keys",
+    "key",
+    "pressed"
+  ],
+  "author": "George Karagkiaouris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karaggeorge/which-keys/issues"
+  },
+  "homepage": "https://github.com/karaggeorge/which-keys#readme"
+}
